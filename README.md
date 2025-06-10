@@ -1,4 +1,5 @@
 # Sales Dashboard using Tableau
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/3adb4302-4331-4030-9147-3061d1ed8954)
 
 This project demonstrates building an interactive sales dashboard using Tableau Public. It includes creating visualizations such as bar charts, bubble charts, and maps, and assembling them into a polished dashboard to provide insights into product sales and profits.
 
